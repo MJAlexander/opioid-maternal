@@ -1,0 +1,52 @@
+"state","abbrev","st_fip","cb_year"
+"Alabama","AL","01",2016
+"Alaska","AK","02",2014
+"Arizona","AZ","04",2010
+"Arkansas","AR","05",2008
+"California","CA","06",2003
+"Colorado","CO","08",2015
+"Connecticut","CT","09",2005
+"Delaware","DE","10",2007
+"Florida","FL","12",2005
+"Georgia","GA","13",2008
+"Hawaii","HI","15",2014
+"Idaho","ID","16",2003
+"Illinois","IL","17",2008
+"Indiana","IN","18",2008
+"Iowa","IA","19",2011
+"Kansas","KS","20",2005
+"Kentucky","KY","21",2011
+"Louisiana","LA","22",2013
+"Maine","ME","23",2011
+"Maryland","MD","24",2001
+"Massachusetts","MA","25",2015
+"Michigan","MI","26",2004
+"Minnesota","MN","27",2012
+"Mississippi","MS","28",2012
+"Missouri","MO","29",2010
+"Montana","MT","30",2003
+"Nebraska","NE","31",2005
+"Nevada","NV","32",2008
+"New Hampshire","NH","33",2005
+"New Jersey","NJ","34",2004
+"New Mexico","NM","35",2006
+"New York","NY","36",2003
+"North Carolina","NC","37",2014
+"North Dakota","ND","38",2008
+"Ohio","OH","39",2007
+"Oklahoma","OK","40",2004
+"Oregon","OR","41",2006
+"Pennsylvania","PA","42",2012
+"Rhode Island","RI","44",2006
+"South Carolina","SC","45",2005
+"South Dakota","SD","46",2004
+"Tennessee","TN","47",2012
+"Texas","TX","48",2006
+"Utah","UT","49",2005
+"Vermont","VT","50",2009
+"Virginia","VA","51",2015
+"Washington","WA","53",2004
+"West Virginia","WV","54",2018
+"Wisconsin","WI","55",2014
+"Wyoming","WY","56",2004
+"Washington DC","DC","11",2006
