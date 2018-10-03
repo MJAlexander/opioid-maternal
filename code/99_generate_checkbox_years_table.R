@@ -1,7 +1,7 @@
 ## This code manually generates a dataframe of when states implemented a 
 ## pregnancy checkbox in the death certificate data. 
 ## 
-## Some of this data come from parts of Table 1 in:
+## Most of this data come from parts of Table 1 in:
 ##  MacDorman MF, Declercq E, Cabral H, Morton C. Is the United States 
 ##  Maternal Mortality Rate Increasing? Disentangling trends from measurement 
 ##  issues Short title: U.S. Maternal Mortality Trends. Obstetrics and 
@@ -34,7 +34,7 @@ cb_df <- data_frame(state   = c(state.name, "Washington DC"),
                       # Washington DC
                       2006)))
 
-## Manually update more recent states.
+## Manually update more recent states (i.e. the NAs up above).
 cb_df <- cb_df %>% 
     mutate(cb_year = 
                case_when(

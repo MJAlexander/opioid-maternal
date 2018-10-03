@@ -1,7 +1,10 @@
 ## 01a_generate_figure_1.R
 ## 
 ## Code to reproduce Figure 1 of our research letter: 
-##  
+##      Gemmill A, Kiang MV, and Alexander MJ. Trends in pregnancy-associated
+##      mortality involving opioids in the United States, 2007-2016. American 
+##      Journal of Obstetrics and Gynecology. Published ahead-of-print 
+##      (September 2018). doi: 10.1016/j.ajog.2018.09.028
 ##  
 ## See README for more details regarding the entire reproducible pipeline.
 

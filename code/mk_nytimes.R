@@ -12,7 +12,7 @@ mk_nytimes <- function(...) {
     ##        'beautiful-thematic-maps-with-ggplot2-only/')
     ## https://github.com/hrbrmstr/hrbrthemes/blob/master/R/theme-ipsum.r
     
-    ## Colos — stick with the ggplot2() greys
+    ## Colors — stick with the ggplot2() greys
     c_bg    <- "white"
     c_grid  <- "grey80"
     c_btext <- "grey5"

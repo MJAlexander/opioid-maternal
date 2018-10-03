@@ -2,7 +2,10 @@
 ## 
 ## Code to process restricted access into the values of interest. This code
 ## is for our research letter:
-##  [CITATION]
+##      Gemmill A, Kiang MV, and Alexander MJ. Trends in pregnancy-associated
+##      mortality involving opioids in the United States, 2007-2016. American 
+##      Journal of Obstetrics and Gynecology. Published ahead-of-print 
+##      (September 2018). doi: 10.1016/j.ajog.2018.09.028
 ##  
 ## NOTE: This is for documentation but requires restricted-access data to 
 ##       run without error. See README for more details.
