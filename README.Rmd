@@ -6,7 +6,7 @@ output: github_document
 
 # Introduction
 
-Reproducible code for our paper [*"Trends in pregnancy-associated mortality involving opioids in the United States, 2007-2016"*](https://doi.org/10.1016/j.ajog.2018.09.028), which uses multiple cause of death data to examine trends in opioid mortality among pregnancy-related deaths. The citation is:
+Reproducible code for our research letter, [*"Trends in pregnancy-associated mortality involving opioids in the United States, 2007-2016"*](https://doi.org/10.1016/j.ajog.2018.09.028), which uses multiple cause of death data to examine trends in opioid mortality among pregnancy-related deaths. The citation is:
 
 > Gemmill A, Kiang MV, and Alexander MJ. Trends in pregnancy-associated mortality involving opioids in the United States, 2007-2016. American Journal of Obstetrics and Gynecology. Published ahead-of-print (September 2018). [doi: 10.1016/j.ajog.2018.09.028](https://doi.org/10.1016/j.ajog.2018.09.028)
 
@@ -70,5 +70,5 @@ sink()
 
 # Authors
 - [Monica Alexander](http://monicaalexander.com) (![Github](http://i.imgur.com/9I6NRUm.png): [MJAlexander](https://github.com/MJAlexander) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@monjalexander](https://twitter.com/monjalexander))
-- [Alison Gemmill](NEED LINK) (![Github](http://i.imgur.com/9I6NRUm.png): [agemmill](https://github.com/agemmill) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@alisongemmill](https://twitter.com/alisongemmill))
+- [Alison Gemmill](https://www.alisongemmill.com/) (![Github](http://i.imgur.com/9I6NRUm.png): [agemmill](https://github.com/agemmill) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@alisongemmill](https://twitter.com/alisongemmill))
 - [Mathew Kiang](https://mathewkiang.com) (![Github](http://i.imgur.com/9I6NRUm.png): [mkiang](https://github.com/mkiang) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [\@mathewkiang](https://twitter.com/mathewkiang))
